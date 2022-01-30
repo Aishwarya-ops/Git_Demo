@@ -3,3 +3,6 @@ banan
 carrot
 beans
 orange
+Watermelon 
+Grapes 
+
