@@ -7,3 +7,4 @@ orange
 Watermelon 
 Grapes 
 
+Aravind Merge conflict scenario
